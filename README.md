@@ -48,7 +48,7 @@ Desenvolver um modelo preditivo que:
 | Regressão Linear | 62.8% | 142.60 |
 
 ### Features Mais Importantes
-![Feature Importance](https://i.imgur.com/feature_importance.png)
+![Feature Importance](https://github.com/maxMitsuya/previsao_arbnb/blob/main/feature_importance.png)
 *Impacto das variáveis no modelo final*
 
 ## 💡 Insights e Aplicações
