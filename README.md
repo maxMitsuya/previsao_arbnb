@@ -35,7 +35,7 @@ Desenvolver um modelo preditivo que:
 *Concentração de preços por região do Rio*
 
 ### Correlações Principais
-![Matriz de Correlação](https://i.imgur.com/correlation_matrix.png)
+![Matriz de Correlação](https://github.com/maxMitsuya/previsao_arbnb/blob/main/correlation_matrix.png)
 *Relação entre variáveis numéricas*
 
 ## 🤖 Modelagem Preditiva
