@@ -31,7 +31,7 @@ Desenvolver um modelo preditivo que:
 ## 🔍 Análise Exploratória
 
 ### Mapa de Calor de Preços
-![Mapa de Densidade](https://i.imgur.com/rio_heatmap.png)
+![Mapa de Densidade](https://github.com/maxMitsuya/previsao_arbnb/blob/main/rio_heat_map.png)
 *Concentração de preços por região do Rio*
 
 ### Correlações Principais
