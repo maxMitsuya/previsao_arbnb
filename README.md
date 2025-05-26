@@ -30,10 +30,6 @@ Desenvolver um modelo preditivo que:
 
 ## 🔍 Análise Exploratória
 
-### Distribuição de Preços
-![Histograma de Preços](https://i.imgur.com/price_distribution.png)
-*Distribuição dos valores de diária após tratamento*
-
 ### Mapa de Calor de Preços
 ![Mapa de Densidade](https://i.imgur.com/rio_heatmap.png)
 *Concentração de preços por região do Rio*
